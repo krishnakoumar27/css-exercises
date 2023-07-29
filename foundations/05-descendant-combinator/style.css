@@ -1,0 +1,7 @@
+.container .text {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    background-color: yellow;
+}
