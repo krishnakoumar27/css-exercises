@@ -1,6 +1,6 @@
 .one, .three, .five {
     background-color: pink;
-    font-style: "Verdana", "DejaVu Sans", "sans-serif";
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
 
 #two {
